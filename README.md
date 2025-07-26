@@ -1,4 +1,4 @@
-#LET(Let's Eating Time)-Teacher
+# LET(Let's Eating Time)-Teacher
 
 ## Introduction
 LET(Let's Eating Time)는/은 대구소프트웨어마이스터고등학교 영양사들을 위해 **교내 동아리 ALT가 개발한 급식 관리 플랫폼**입니다.<br>
